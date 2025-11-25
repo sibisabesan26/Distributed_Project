@@ -16,7 +16,6 @@ This project is a **bird’s‑eye view airport simulation** built with Python�
 
 - Python 3.9+  
 - Tkinter (bundled with Python)  
-- Pillow (`pip install pillow`) for GIF frame handling
 
 
 ## 🚀 Running the Simulation
