@@ -25,8 +25,4 @@ This project is a **bird’s‑eye view airport simulation** built with Python�
 3. Run the GUI:
 
    ```bash
-   python gui_main.py
-   python main_controller1.py
-   python main_controller2.py
-   python main_controller3.py
-   python coordinator.py
+python run_demo_token.py
