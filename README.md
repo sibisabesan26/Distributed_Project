@@ -25,4 +25,4 @@ This project is a **bird’s‑eye view airport simulation** built with Python�
 3. Run the GUI:
 
    ```bash
-python run_demo_token.py
+  python run_demo_token.py
