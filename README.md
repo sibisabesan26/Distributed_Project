@@ -24,4 +24,5 @@ This project is a **bird’s‑eye view airport simulation** built with Python�
 2. Place your background GIF in the project folder and name it `background.gif`.
 3. Run the GUI:
 
-   ```bash python run_demo_token.py
+```bash
+python run_demo_token.py
